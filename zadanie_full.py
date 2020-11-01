@@ -121,7 +121,7 @@ for nazwa,zmienna in zmienne.items():
 ############################################
 
 # Zidentyfikowaliśmy problem - "dziwne", znacząco za duże niektóre wartości dla zmiennych:
-#zmienne_do_naprawienia = {"rozn_temp":rozn_temp, "przeplyw":przeplyw, "moc":moc}
+##zmienne_do_naprawienia = {"rozn_temp":rozn_temp, "przeplyw":przeplyw, "moc":moc}
 
 ### ZADANIE (1p.) ###
 # Zrealizować automatyczne dodawanie "podejrzanych" zmiennych do słownika "zmienne_do_naprawienia",
